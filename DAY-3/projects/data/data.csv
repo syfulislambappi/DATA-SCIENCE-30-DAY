@@ -1,0 +1,91 @@
+OrderID,Date,CustomerName,Product,Quantity,Price,Total,Region
+1001,1/5/2021,  John Smith  ,Laptop,1,"$1,200 ",1200,North
+1002,1/7/2021,Jane Doe,Mobile,2,300,600,South
+1003,1/8/2021,Michael Brown,Laptop, ,$1 ,200,
+1004,2021-13-09,Sarah Miller,Tablet,3,$250 ,750,West
+1005,1/10/2021,John Smith,Laptop,1,1200,1200,North
+1006,1/11/2021,,Mobile,1,300,300,South
+1007,1/12/2021,Jane Doe,Mobile,1,300,300,South
+1008,1/12/2021,Adam Lee,Laptop,2,"$1,200 ",2400,East
+1009,1/14/2021,Michael Brown,Tablet,5,$250 ,1250,West
+1010,1/15/2021,  John  SMITH  ,Laptop,1,"$1,200 ",1200,North
+1011,1/16/2021,Sarah Miller,Mobile,100,300,30000,West
+1012,1/17/2021,Jane Doe,,3,300,900,South
+1013,1/18/2021,Adam Lee,Laptop,2,$1 ,200,2400
+1014,1/19/2021,Michael Brown,Tablet,3,$250 ,750,West
+1015,,John Smith,Tablet,2,$250 ,500,North
+1016,1/21/2021,Jane   Doe,Mobile,1,300,300,South
+1017,1/22/2021,Adam Lee,Laptop,1,$1 ,200,1200
+1018,1/23/2021,Sarah Miller,Tablet,,250,,West
+1019,1/24/2021,Michael Brown,Mobile,1,$300 ,300,West
+1020,1/25/2021,John Smith,Laptop,2,"$1,200 ",2400,North
+1021,1/26/2021,Jane Doe,Laptop,0,1200,0,South
+1022,1/27/2021,Adam Lee,Laptop,2,"$1,200 ",2400,East
+1023,1/28/2021,Sarah Miller,Tablet,3,$250 ,750,West
+1024,1/29/2021,,Mobile,1,300,300,South
+1025,1/30/2021,John Smith,Laptop,1,"$1,200 ",1200,North
+1026,2/1/2021,Michael Brown,Tablet,-3,250,-750,West
+1027,2/2/2021,Jane Doe,Mobile,?,300,?,South
+1028,2/3/2021,Adam Lee,Laptop,2,"$1,200 ",2400,East
+1029,2/4/2021,,Tablet,5,$250 ,1250,West
+1030,2/5/2021,John Smith,Laptop,1,"$1,200 ",1200,North
+1031,2/6/2021,Jane Doe,Mobile,2,300,600,South
+1032,2/7/2021,Michael Brown,Laptop,1,$1 ,200,1200
+1033,2/8/2021,Adam Lee,Tablet,3,$250 ,750,West
+1034,2/9/2021,Sarah Miller,Mobile,1,300,300,West
+1035,2/10/2021,John Smith,Laptop,10,"$1,200 ",12000,North
+1036,2/11/2021,Jane Doe,Tablet,3,$250 ,750,South
+1037,2/12/2021,Michael Brown,Mobile,1,$300 ,300,West
+1038,2/13/2021,Adam Lee,Laptop,2,"$1,200 ",2400,East
+1039,2/14/2021,Sarah Miller,Mobile,2,$300 ,600,West
+1040,2/15/2021,John Smith,,1,"$1,200 ",1200,North
+1041,2/16/2021,Jane Doe,Mobile,3,300,900,South
+1042,2/17/2021,Michael Brown,Tablet,4,$250 ,1000,West
+1043,2/18/2021,Adam Lee,Laptop,,1200,,East
+1044,2/19/2021,Sarah Miller,Mobile,1,$300 ,300,West
+1045,2/20/2021,John Smith,Laptop,1,"$1,200 ",1200,North
+1046,2/21/2021,Jane Doe,Tablet,3,$250 ,750,South
+1047,2/22/2021,,,,,,
+1048,2/23/2021,Michael Brown,Mobile,1,300,300,West
+1049,2/24/2021,Adam Lee,Laptop,200,$1 ,200,240000
+1050,2/25/2021,Sarah Miller,Tablet,3,$250 ,750,West
+1051,2/26/2021,John SMITH,Laptop,1,1200,1200,North
+1052,2/27/2021,JANE DOE,Mobile,?,300,?,South
+1053,2/28/2021,Michael Brown,Laptop,2,$1 ,200,2400
+1054,3/1/2021,Adam Lee,Tablet,3,$250 ,750,West
+1055,3/2/2021,Sarah Miller,Mobile,1,$300 ,300,West
+1056,3/3/2021,John Smith,Laptop,N/A,1200,,North
+1057,3/4/2021,Jane Doe,Tablet,3,$250 ,750,South
+1058,3/5/2021,Michael Brown,Mobile,1,$300 ,300,West
+1059,3/6/2021,Adam Lee,Laptop,2,"$1,200 ",2400,East
+1060,3/7/2021,Sarah Miller,Mobile,1,300,300,West
+1061,3/8/2021,John Smith,Tablet,2,$250 ,500,North
+1062,3/9/2021,Jane Doe,Mobile,1,$300 ,300,South
+1063,3/10/2021,Michael Brown,Laptop,4,"$1,200 ",4800,East
+1064,3/11/2021,Adam Lee,Tablet,3,$250 ,750,West
+1065,3/12/2021,Sarah Miller,Mobile,1,300,300,West
+1066,3/13/2021,John Smith,Laptop,2,"$1,200 ",2400,North
+1067,3/14/2021,Jane Doe,Mobile,1,300,300,South
+1068,3/15/2021,Michael Brown,Tablet,3,$250 ,750,West
+1069,3/16/2021,Adam Lee,Mobile,1,$300 ,300,East
+1070,3/17/2021,Sarah Miller,Laptop,1,"$1,200 ",1200,West
+1071,3/18/2021,John Smith,Tablet,,250,,North
+1072,N/A,Jane Doe,Mobile,1,300,300,South
+1073,3/20/2021,Michael Brown,Laptop,2,"$1,200 ",2400,East
+1074,3/21/2021,Adam Lee,Tablet,3,$250 ,750,West
+1075,3/22/2021,Sarah Miller,Mobile,1,$300 ,300,West
+1076,3/23/2021,John Smith,Laptop,1,"$1,200 ",1200,North
+1077,3/24/2021,Jane Doe,Tablet,3,$250 ,750,South
+1078,3/25/2021,Michael Brown,Mobile,1,300,300,West
+1079,3/26/2021,Adam Lee,Laptop,2,"$1,200 ",2400,East
+1080,3/27/2021,Sarah Miller,Tablet,3,$250 ,750,West
+1081,,John Smith,Tablet,2,$250 ,500,North
+1082,3/29/2021,Jane Doe,Mobile,1,$300 ,300,South
+1083,3/30/2021,Michael Brown,Laptop,2,"$1,200 ",2400,East
+1084,3/31/2021,Adam Lee,Tablet,3,$250 ,750,West
+1085,4/1/2021,,Mobile,1,300,300,South
+1086,4/2/2021,John Smith,Laptop,1,"$1,200 ",1200,North
+1087,4/3/2021,Jane Doe,Mobile,1,$300 ,300,South
+1088,4/4/2021,Michael Brown,Tablet,3,$250 ,750,West
+1089,4/5/2021,Adam Lee,Laptop,2,"$1,200 ",2400,East
+1090,4/6/2021,Sarah Miller,Mobile,1,300,300,West

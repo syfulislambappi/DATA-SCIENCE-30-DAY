@@ -1,0 +1,13 @@
+customer_id,name,age,email,signup_date,country,amount_spent
+1.0, Alice ,25.0,alice@example.com,2021/01/05,US,$120.50
+2.0,Bob,,bob@example.com,2021-02-10,usa,85.0
+2.0,Bob ,30.0,bob@example.com,2021-02-10,U.S.,85
+3.0,Charlie,200.0,charlie@example.com,not a date,Canada,$300
+4.0,Dave,-5.0,,2021-03-15,CANADA,-50
+,Eve,40.0,eve@example.com,2021/04/20,UK,100
+5.0,eve,35.0,eve@example.com,2021-04-20,uk,200
+6.0,Frank ,29.0,frank@ex.com,2021-05-01,United States,$75
+7.0,Grace,150.0,grace@ex.com,2021-06-01,U.S.A.,$0
+8.0,Heidi,27.0,heidi@ex.com,2021-06-15,Bangladesh,$500
+9.0,Ivan,,ivanatex.com,2021-13-01,BD,$20
+10.0,Judy,45.0,judy@example.com,2021-07-20,bd,$9999
